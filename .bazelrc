@@ -1,0 +1,2 @@
+coverage --test_env="LCOV_MERGER=/usr/bin/true"
+coverage --experimental_use_llvm_covmap
